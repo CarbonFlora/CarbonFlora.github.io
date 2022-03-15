@@ -6,7 +6,7 @@ body {
     margin: 0; }
   
   .glitch {
-    text-shadow: -2px -2px 1px green, 2px 2px 3px red; }
+    text-shadow: -1px -1px 1px green, 1px 1px 1px red; }
   
   .content {
     padding: 5vh; }
